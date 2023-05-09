@@ -3,6 +3,8 @@ public class Tank {
     String color;
     String name;
 
+    String color2;
+
     void
     }
 
